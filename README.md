@@ -14,7 +14,7 @@ The CarState applications were developed to be an extension of the [OpenXC](http
 
 ## Dependencies:
 - **Hardware**:
-  - Android Device with a fingerprint sensor running Android 6.0 or later
+  - Android Device with a fingerprint sensor running Android 6.0 or later.
 - **Software**: 
   - [OpenXC](http://openxcplatform.com/android/getting-started.html)
 
